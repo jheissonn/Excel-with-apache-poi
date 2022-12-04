@@ -9,7 +9,7 @@ Esse tipo de exportação retém a pasta de trabalho na memória até que ela se
 
 **Nom-streaming**
 
-- [http://localhost:8080/excel/non-streaming-excel?columns=10&rows=50000](http://localhost:8080/excel/non-streaming-excel)
+- [http://localhost:8080/excel/non-streaming-excel](http://localhost:8080/excel/non-streaming-excel)
 
 ## Streaming Excel Export
 
@@ -26,7 +26,7 @@ Este tipo de exportação é bom para grandes exportações.
 
 **Streaming-EXCEL**
 
-- [http://localhost:8080/excel/streaming-excel?columns=10&rows=50000](http://localhost:8080/excel/streaming-excel)
+- [http://localhost:8080/excel/streaming-excel](http://localhost:8080/excel/streaming-excel)
 
 
 ## Exemplos utilizando Células, Estilos e validação estilo dropdown
